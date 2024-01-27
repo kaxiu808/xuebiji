@@ -5,8 +5,10 @@
 
 
 ---
-dg-publish:true
-title :  home
+title: home
+dg-publish: true
+dg-home: true
+
 ---
 
 # 🏠home
