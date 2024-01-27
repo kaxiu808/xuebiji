@@ -1,5 +1,5 @@
 ---
-{"sticker":"emoji//1f3e0","dg-publish":true,"dg-home":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"sticker":"emoji//1f3e0","dg-publish":true,"dg-home":true,"title":"home","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
